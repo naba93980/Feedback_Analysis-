@@ -1,7 +1,7 @@
 from transformers import pipeline
 
 def summarize_feedback(feedback_data):
-    summarizer = pipeline("summarization", device=0)
+    summarizer = pipeline("summarization")
     summarized_feedback = []
     for feedback in feedback_data:
         summary = summarizer(feedback, max_length=4, min_length=2, do_sample=False)

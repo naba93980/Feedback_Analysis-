@@ -8,11 +8,12 @@ def visualize_sentiment(sentiment_scores, output_file='sentiment_analysis.png'):
     plt.xlabel('Sentiment')
     plt.ylabel('Count')
     plt.title('Feedback Sentiment Analysis')
-    plt.show()
 
     # Save the plot to a file
     plt.savefig(output_file)
     print(f"Sentiment analysis plot saved as {output_file}")
+    
+    plt.show()
 
 if __name__ == "__main__":
     sentiment_scores = ['positive', 'negative', 'neutral', 'positive', 'negative']
