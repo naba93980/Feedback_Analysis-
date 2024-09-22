@@ -1,0 +1,1385 @@
+[
+    {
+        "feedback": "The food was delicious, but the portions were small."
+    },
+    {
+        "feedback": "Service was prompt, but the environment was too noisy."
+    },
+    {
+        "feedback": "The dessert was fantastic, but my main course was undercooked."
+    },
+    {
+        "feedback": "Staff was friendly, but the waiting time was excessive."
+    },
+    {
+        "feedback": "The seating was comfortable, but the tables were wobbly."
+    },
+    {
+        "feedback": "Ambiance was cozy, but the lighting was too dim to read the menu."
+    },
+    {
+        "feedback": "Great variety of dishes, but the execution was inconsistent."
+    },
+    {
+        "feedback": "The drinks were refreshing, but the food arrived lukewarm."
+    },
+    {
+        "feedback": "Very clean and well-organized, but the waitstaff seemed overwhelmed."
+    },
+    {
+        "feedback": "The presentation was lovely, but the taste didn't match up."
+    },
+    {
+        "feedback": "Overall experience was good, but the music was too loud."
+    },
+    {
+        "feedback": "The spicy level was perfect, but the salad was wilted."
+    },
+    {
+        "feedback": "Service was attentive, but the food took too long to arrive."
+    },
+    {
+        "feedback": "The appetizers were a highlight, but the entrees were disappointing."
+    },
+    {
+        "feedback": "Great value for money, but the ambiance felt rushed."
+    },
+    {
+        "feedback": "The chef's special was outstanding, but the rest of the menu was lackluster."
+    },
+    {
+        "feedback": "Very family-friendly, but the kids' menu options were limited."
+    },
+    {
+        "feedback": "The view was beautiful, but the air conditioning was too chilly."
+    },
+    {
+        "feedback": "Fabulous cocktails, but the wine selection was sparse."
+    },
+    {
+        "feedback": "The food was fresh, but some items were too salty."
+    },
+    {
+        "feedback": "Staff were knowledgeable, but they forgot my drink order."
+    },
+    {
+        "feedback": "Comfortable seating, but the table spacing was cramped."
+    },
+    {
+        "feedback": "Delightful breakfast options, but the coffee was weak."
+    },
+    {
+        "feedback": "The decor was inviting, but the restrooms were not clean."
+    },
+    {
+        "feedback": "Great for large groups, but service slowed down significantly."
+    },
+    {
+        "feedback": "Desserts were heavenly, but the main dishes were a letdown."
+    },
+    {
+        "feedback": "Good location, but parking was a nightmare."
+    },
+    {
+        "feedback": "The flavors were vibrant, but the plating was messy."
+    },
+    {
+        "feedback": "The lunch special was a steal, but the dinner prices were high."
+    },
+    {
+        "feedback": "The food came quickly, but it was too greasy."
+    },
+    {
+        "feedback": "Friendly environment, but the host was a bit disorganized."
+    },
+    {
+        "feedback": "The seafood was fresh, but the steak was overcooked."
+    },
+    {
+        "feedback": "Charming atmosphere, but it felt crowded."
+    },
+    {
+        "feedback": "The salad was refreshing, but the dressing was too tangy."
+    },
+    {
+        "feedback": "Excellent service, but the restaurant was understaffed."
+    },
+    {
+        "feedback": "The brunch options were great, but the lines were long."
+    },
+    {
+        "feedback": "The curry was authentic, but the naan was hard."
+    },
+    {
+        "feedback": "Creative menu items, but execution fell short."
+    },
+    {
+        "feedback": "The staff's recommendations were spot on, but the meal was pricey."
+    },
+    {
+        "feedback": "The food was well-seasoned, but the dessert was bland."
+    },
+    {
+        "feedback": "A nice touch with complimentary bread, but it was stale."
+    },
+    {
+        "feedback": "Comfortable booths, but the chairs were not ergonomic."
+    },
+    {
+        "feedback": "The flavors were unique, but portion sizes could be larger."
+    },
+    {
+        "feedback": "A perfect date spot, but it was a bit too romantic for a business meeting."
+    },
+    {
+        "feedback": "Great coffee, but the pastries were not fresh."
+    },
+    {
+        "feedback": "The staff were attentive, but I had to ask for the check multiple times."
+    },
+    {
+        "feedback": "The food was hearty, but it could have used more spices."
+    },
+    {
+        "feedback": "Wonderful outdoor seating, but the insects were distracting."
+    },
+    {
+        "feedback": "An overall pleasant experience, but I'd recommend better signage."
+    },
+    {
+        "feedback": "The wine pairing was excellent, but the meal was rushed."
+    },
+    {
+        "feedback": "The soup was warm and comforting, but the bread was hard."
+    },
+    {
+        "feedback": "The lighting was perfect, but the temperature was too cold."
+    },
+    {
+        "feedback": "Friendly service, but I found the music choice off-putting."
+    },
+    {
+        "feedback": "Unique dishes, but I felt some were overpriced."
+    },
+    {
+        "feedback": "The meat was tender, but the vegetables were overcooked."
+    },
+    {
+        "feedback": "Enjoyed the tasting menu, but some courses were too heavy."
+    },
+    {
+        "feedback": "The staff handled our large group well, but it took forever to get our food."
+    },
+    {
+        "feedback": "Nice art on the walls, but the decor felt dated."
+    },
+    {
+        "feedback": "Impressive cocktail list, but the execution was inconsistent."
+    },
+    {
+        "feedback": "Great dessert options, but the main courses were average."
+    },
+    {
+        "feedback": "The ambiance was lovely, but I found the chairs uncomfortable."
+    },
+    {
+        "feedback": "The food was bursting with flavor, but the overall service was lacking."
+    },
+    {
+        "feedback": "Very trendy spot, but the food didn't live up to the hype."
+    },
+    {
+        "feedback": "Perfect for brunch, but the lunch menu is limited."
+    },
+    {
+        "feedback": "The chocolate cake was divine, but the fruit salad was disappointing."
+    },
+    {
+        "feedback": "A great experience overall, but the prices were high for the quality."
+    },
+    {
+        "feedback": "The appetizers were creative, but the entrees were basic."
+    },
+    {
+        "feedback": "Fast service, but the quality of food was subpar."
+    },
+    {
+        "feedback": "Loved the concept, but execution could improve."
+    },
+    {
+        "feedback": "The steak was juicy, but the sides were lacking."
+    },
+    {
+        "feedback": "Excellent customer service, but the food was underwhelming."
+    },
+    {
+        "feedback": "The venue was spacious, but the wait time was excessive."
+    },
+    {
+        "feedback": "Delicious vegan options, but the meat dishes didn't impress."
+    },
+    {
+        "feedback": "Great atmosphere for a casual meal, but not for a special occasion."
+    },
+    {
+        "feedback": "The pasta was homemade, but the sauce was bland."
+    },
+    {
+        "feedback": "Enjoyed the live music, but it was a bit too loud for conversation."
+    },
+    {
+        "feedback": "The presentation was beautiful, but the flavors fell flat."
+    },
+    {
+        "feedback": "A good choice for families, but not for a romantic dinner."
+    },
+    {
+        "feedback": "The pancakes were fluffy, but the syrup was too sweet."
+    },
+    {
+        "feedback": "The seafood platter was impressive, but the service was slow."
+    },
+    {
+        "feedback": "The burrito was filling, but lacked seasoning."
+    },
+    {
+        "feedback": "Enjoyed the seasonal menu, but some items were unavailable."
+    },
+    {
+        "feedback": "A fun spot to hang out, but the food quality varies."
+    },
+    {
+        "feedback": "Delightful brunch spot, but the coffee could be better."
+    },
+    {
+        "feedback": "The sushi was fresh, but the rolls were overpriced."
+    },
+    {
+        "feedback": "Overall, a decent meal, but I've had better."
+    },
+    {
+        "feedback": "The cheese platter was excellent, but the bread was stale."
+    },
+    {
+        "feedback": "Nice setting, but the service was inconsistent."
+    },
+    {
+        "feedback": "The tacos were flavorful, but the rice was dry."
+    },
+    {
+        "feedback": "Enjoyed the healthy options, but they were a bit bland."
+    },
+    {
+        "feedback": "The spicy chicken sandwich was fantastic, but the fries were soggy."
+    },
+    {
+        "feedback": "Great place for a quick bite, but the ambiance is lacking."
+    },
+    {
+        "feedback": "The atmosphere was warm, but the food was just average."
+    },
+    {
+        "feedback": "Loved the vegan burger, but the bun was too thick."
+    },
+    {
+        "feedback": "The gelato was delightful, but the meal before was lackluster."
+    },
+    {
+        "feedback": "Fast and friendly service, but the menu is confusing."
+    },
+    {
+        "feedback": "Great salad options, but the dressing choices were limited."
+    },
+    {
+        "feedback": "The steak was cooked perfectly, but the sides were disappointing."
+    },
+    {
+        "feedback": "The brunch menu had great variety, but the execution was uneven."
+    },
+    {
+        "feedback": "Impressed with the wine selection, but the food was average."
+    },
+    {
+        "feedback": "Nice for a casual dinner, but wouldn't recommend for a celebration."
+    },
+    {
+        "feedback": "Loved the curry, but the naan was overcooked."
+    },
+    {
+        "feedback": "Enjoyed the mixology, but the bar area was cramped."
+    },
+    {
+        "feedback": "The soup was hearty, but the sandwich was dry."
+    },
+    {
+        "feedback": "Great location, but the restaurant felt cluttered."
+    },
+    {
+        "feedback": "Comfortable seating, but the tables were sticky."
+    },
+    {
+        "feedback": "The flavors were bold, but the meal was too salty."
+    },
+    {
+        "feedback": "Great for lunch breaks, but the dinner menu lacks excitement."
+    },
+    {
+        "feedback": "The ambiance was perfect for a date night, but the food was just okay."
+    },
+    {
+        "feedback": "Great staff, but the kitchen seemed slow during peak hours."
+    },
+    {
+        "feedback": "The desserts were a highlight, but the entrees were forgettable."
+    },
+    {
+        "feedback": "Loved the seasonal dishes, but they ran out of my first choice."
+    },
+    {
+        "feedback": "The staff were friendly, but the wait time was frustrating."
+    },
+    {
+        "feedback": "The pizza was crispy, but the toppings were sparse."
+    },
+    {
+        "feedback": "A delightful spot, but the bathrooms could use some attention."
+    },
+    {
+        "feedback": "Enjoyed the seasonal beer, but the food was lukewarm."
+    },
+    {
+        "feedback": "The seafood was well-prepared, but the meat options were bland."
+    },
+    {
+        "feedback": "A nice atmosphere, but the food was overpriced for the quality."
+    },
+    {
+        "feedback": "Great brunch cocktails, but the food took a while."
+    },
+    {
+        "feedback": "The staff were efficient, but the overall vibe felt rushed."
+    },
+    {
+        "feedback": "Loved the fresh ingredients, but the seasoning was off."
+    },
+    {
+        "feedback": "The chef's special was delicious, but the dessert was a letdown."
+    },
+    {
+        "feedback": "A wonderful experience, but the entrance was hard to find."
+    },
+    {
+        "feedback": "Impressive decor, but the service was slow and disorganized."
+    },
+    {
+        "feedback": "The flavors were exquisite, but the portion sizes were small."
+    },
+    {
+        "feedback": "Great concept, but the execution needs refinement."
+    },
+    {
+        "feedback": "The pancakes were fluffy, but the bacon was overcooked."
+    },
+    {
+        "feedback": "Great vegan options, but the meat dishes were uninspired."
+    },
+    {
+        "feedback": "Enjoyed the happy hour, but the food quality dipped later."
+    },
+    {
+        "feedback": "A cozy spot for a date, but the menu was limited."
+    },
+    {
+        "feedback": "The cheese fries were a hit, but the burgers were average."
+    },
+    {
+        "feedback": "Great outdoor seating, but the insects were distracting."
+    },
+    {
+        "feedback": "The staff were knowledgeable, but I found the prices steep."
+    },
+    {
+        "feedback": "A nice blend of cuisines, but the flavors didn't come together."
+    },
+    {
+        "feedback": "Great family atmosphere, but the kids' menu was lacking variety."
+    },
+    {
+        "feedback": "The guacamole was fresh, but the chips were stale."
+    },
+    {
+        "feedback": "Enjoyed the seasonal cocktails, but the food was mediocre."
+    },
+    {
+        "feedback": "Great service, but I found the food to be too salty."
+    },
+    {
+        "feedback": "Loved the pasta, but the salad was wilted."
+    },
+    {
+        "feedback": "A charming location, but the parking situation was"
+    },
+    {
+        "feedback": "The pizza had great flavor, but the crust was soggy."
+    },
+    {
+        "feedback": "The staff were very welcoming, but my drink order was mixed up."
+    },
+    {
+        "feedback": "The atmosphere was vibrant, but the food took forever to arrive."
+    },
+    {
+        "feedback": "The seafood was fresh, but the seasoning was too mild."
+    },
+    {
+        "feedback": "Loved the variety on the menu, but some dishes were overpriced."
+    },
+    {
+        "feedback": "The lunch special was a great deal, but the service was slow."
+    },
+    {
+        "feedback": "The steak was cooked to perfection, but the vegetables were bland."
+    },
+    {
+        "feedback": "Great selection of desserts, but the main dishes were average."
+    },
+    {
+        "feedback": "The brunch was enjoyable, but the coffee was weak."
+    },
+    {
+        "feedback": "The staff was attentive, but I had to ask for my check multiple times."
+    },
+    {
+        "feedback": "The ambiance was cozy, but it felt cramped during peak hours."
+    },
+    {
+        "feedback": "Delicious wings, but the dipping sauce was too spicy."
+    },
+    {
+        "feedback": "Great place for a quick bite, but not suitable for long dinners."
+    },
+    {
+        "feedback": "The pasta was al dente, but the sauce was lacking flavor."
+    },
+    {
+        "feedback": "Great ambiance for a night out, but the food was disappointing."
+    },
+    {
+        "feedback": "The service was quick, but the food was lukewarm."
+    },
+    {
+        "feedback": "Loved the unique flavors, but some dishes were too salty."
+    },
+    {
+        "feedback": "The cheese board was delightful, but the crackers were stale."
+    },
+    {
+        "feedback": "The overall experience was good, but the prices were high."
+    },
+    {
+        "feedback": "The burger was juicy, but the bun fell apart."
+    },
+    {
+        "feedback": "The salad was fresh, but the dressing was too tangy."
+    },
+    {
+        "feedback": "The sushi was expertly prepared, but the rolls were too large."
+    },
+    {
+        "feedback": "Impressed with the decor, but the service could improve."
+    },
+    {
+        "feedback": "The chips and salsa were great, but the entrees were bland."
+    },
+    {
+        "feedback": "The cocktails were creative, but the food was overpriced."
+    },
+    {
+        "feedback": "The entrees were tasty, but the dessert menu was limited."
+    },
+    {
+        "feedback": "Great atmosphere for families, but the kids' menu options were sparse."
+    },
+    {
+        "feedback": "The fish was perfectly cooked, but the side dishes were lackluster."
+    },
+    {
+        "feedback": "Loved the ambiance, but the food was just okay."
+    },
+    {
+        "feedback": "The appetizers were a highlight, but the main courses were underwhelming."
+    },
+    {
+        "feedback": "The staff were friendly, but my order was incorrect."
+    },
+    {
+        "feedback": "The food was hearty, but the menu felt outdated."
+    },
+    {
+        "feedback": "Great location, but the restaurant was too crowded."
+    },
+    {
+        "feedback": "The gelato was smooth, but the meal before was mediocre."
+    },
+    {
+        "feedback": "A wonderful place for brunch, but dinner service was slow."
+    },
+    {
+        "feedback": "The pasta was flavorful, but the portion was small."
+    },
+    {
+        "feedback": "The staff were attentive, but the food quality varied."
+    },
+    {
+        "feedback": "The steak was tender, but the sauce was too rich."
+    },
+    {
+        "feedback": "I enjoyed the creative dishes, but some were hit or miss."
+    },
+    {
+        "feedback": "The ambiance was lively, but the food was overpriced."
+    },
+    {
+        "feedback": "The pancakes were fluffy, but the syrup was too thick."
+    },
+    {
+        "feedback": "Great atmosphere for friends, but not for intimate dinners."
+    },
+    {
+        "feedback": "The desserts were amazing, but the mains were disappointing."
+    },
+    {
+        "feedback": "The food was fresh, but it could use more seasoning."
+    },
+    {
+        "feedback": "Loved the brunch options, but the coffee was bitter."
+    },
+    {
+        "feedback": "The service was prompt, but the food lacked flavor."
+    },
+    {
+        "feedback": "The seafood risotto was creamy, but the shrimp was overcooked."
+    },
+    {
+        "feedback": "Impressive wine list, but the food was average."
+    },
+    {
+        "feedback": "Great for a casual night out, but not for special occasions."
+    },
+    {
+        "feedback": "The burger was flavorful, but the fries were soggy."
+    },
+    {
+        "feedback": "Wonderful outdoor seating, but the service was slow."
+    },
+    {
+        "feedback": "The flavors were bold, but some dishes were overly greasy."
+    },
+    {
+        "feedback": "The coffee was strong, but the pastries were stale."
+    },
+    {
+        "feedback": "The ambiance was charming, but the food was overpriced."
+    },
+    {
+        "feedback": "The menu had great variety, but execution was inconsistent."
+    },
+    {
+        "feedback": "The desserts were rich, but the portions were small."
+    },
+    {
+        "feedback": "Great service, but the food was a bit bland."
+    },
+    {
+        "feedback": "The tacos were fresh, but the rice was overcooked."
+    },
+    {
+        "feedback": "The atmosphere was relaxed, but the food took a long time."
+    },
+    {
+        "feedback": "The service was friendly, but the food was lukewarm."
+    },
+    {
+        "feedback": "Loved the vegan options, but the meat dishes were average."
+    },
+    {
+        "feedback": "The brunch was fantastic, but the service was slow."
+    },
+    {
+        "feedback": "The atmosphere was inviting, but the music was too loud."
+    },
+    {
+        "feedback": "The chef's special was delightful, but the sides were lacking."
+    },
+    {
+        "feedback": "A great place for lunch, but the dinner menu was limited."
+    },
+    {
+        "feedback": "The soup was hearty, but the bread was stale."
+    },
+    {
+        "feedback": "The cocktails were impressive, but the food was mediocre."
+    },
+    {
+        "feedback": "Great family-friendly spot, but the food was average."
+    },
+    {
+        "feedback": "The flavors were delicious, but the meal was overpriced."
+    },
+    {
+        "feedback": "Nice spot for a casual dinner, but the menu could use more options."
+    },
+    {
+        "feedback": "The service was attentive, but the food was just okay."
+    },
+    {
+        "feedback": "The shrimp cocktail was fresh, but the sauce was bland."
+    },
+    {
+        "feedback": "The ambiance was cozy, but the food was a letdown."
+    },
+    {
+        "feedback": "Great dessert options, but the entrees were lacking."
+    },
+    {
+        "feedback": "The pasta was perfectly cooked, but the sauce was too bland."
+    },
+    {
+        "feedback": "The staff were welcoming, but the food was overpriced."
+    },
+    {
+        "feedback": "The appetizers were delicious, but the main courses fell flat."
+    },
+    {
+        "feedback": "Great cocktails, but the food took too long to arrive."
+    },
+    {
+        "feedback": "The burger was juicy, but the bun was stale."
+    },
+    {
+        "feedback": "Wonderful ambiance for dinner, but the service was slow."
+    },
+    {
+        "feedback": "The salads were fresh, but the dressing was too oily."
+    },
+    {
+        "feedback": "The nachos were loaded, but the cheese was cold."
+    },
+    {
+        "feedback": "Great brunch place, but dinner options were limited."
+    },
+    {
+        "feedback": "The cheese fries were a hit, but the burgers were average."
+    },
+    {
+        "feedback": "Great outdoor dining, but the service was inconsistent."
+    },
+    {
+        "feedback": "The decor was stunning, but the food quality didn't match."
+    },
+    {
+        "feedback": "Loved the seasonal menu, but it felt rushed."
+    },
+    {
+        "feedback": "The sandwiches were fresh, but the sides were mediocre."
+    },
+    {
+        "feedback": "Impressive drink selection, but the food was a letdown."
+    },
+    {
+        "feedback": "The steak was cooked perfectly, but the sides were bland."
+    },
+    {
+        "feedback": "Great for a quick meal, but not a romantic dinner spot."
+    },
+    {
+        "feedback": "The flavors were unique, but the portion sizes were small."
+    },
+    {
+        "feedback": "Delicious desserts, but the main courses were disappointing."
+    },
+    {
+        "feedback": "The pasta was great, but the salad was wilted."
+    },
+    {
+        "feedback": "Good atmosphere, but the food was too salty."
+    },
+    {
+        "feedback": "The staff were friendly, but the service was slow."
+    },
+    {
+        "feedback": "Great variety on the menu, but execution needs improvement."
+    },
+    {
+        "feedback": "The lunch specials were a steal, but the dinner prices were high."
+    },
+    {
+        "feedback": "The desserts were a highlight, but the entrees were forgettable."
+    },
+    {
+        "feedback": "Wonderful location, but the food was average."
+    },
+    {
+        "feedback": "The seafood was fresh, but the meat dishes were bland."
+    },
+    {
+        "feedback": "Great place for families, but the kids' menu was lacking variety."
+    },
+    {
+        "feedback": "The wings were flavorful, but the sauce was too spicy."
+    },
+    {
+        "feedback": "The service was quick, but the food was lukewarm."
+    },
+    {
+        "feedback": "The ambiance was lively, but the food was overpriced."
+    },
+    {
+        "feedback": "Great drinks, but the food quality was inconsistent."
+    },
+    {
+        "feedback": "Loved the atmosphere, but the food was average."
+    },
+    {
+        "feedback": "The sushi was fresh, but the rolls were too big."
+    },
+    {
+        "feedback": "Great location, but the service was a bit slow."
+    },
+    {
+        "feedback": "The tacos were tasty, but the rice was dry."
+    },
+    {
+        "feedback": "The presentation was beautiful, but the flavors were flat."
+    },
+    {
+        "feedback": "Nice decor, but the food was overpriced for the quality."
+    },
+    {
+        "feedback": "The brunch menu was exciting, but the execution fell short."
+    },
+    {
+        "feedback": "Great place for a casual dinner, but not for special occasions."
+    },
+    {
+        "feedback": "The steak was juicy, but the sides were uninspired."
+    },
+    {
+        "feedback": "Delicious wings, but the blue cheese dressing was too thin."
+    },
+    {
+        "feedback": "The flavors were vibrant, but the food was a bit salty."
+    },
+    {
+        "feedback": "The drinks were refreshing, but the food was lukewarm."
+    },
+    {
+        "feedback": "Great family-friendly atmosphere, but the food was average."
+    },
+    {
+        "feedback": "The dessert selection was amazing, but the entrees were lacking."
+    },
+    {
+        "feedback": "The pasta was delicious, but the portion size was small."
+    },
+    {
+        "feedback": "Loved the concept, but the execution needs work."
+    },
+    {
+        "feedback": "The salad was fresh, but the dressing was too oily."
+    },
+    {
+        "feedback": "Great atmosphere for a night out, but the food didn't live up to expectations."
+    },
+    {
+        "feedback": "The service was friendly, but the food quality varied."
+    },
+    {
+        "feedback": "The tacos were authentic, but the portion sizes were small."
+    },
+    {
+        "feedback": "The burger was great, but the fries were cold."
+    },
+    {
+        "feedback": "Nice spot for brunch, but dinner was lackluster."
+    },
+    {
+        "feedback": "The staff were attentive, but my order was mixed up."
+    },
+    {
+        "feedback": "The flavors were bold, but the execution was inconsistent."
+    },
+    {
+        "feedback": "Great ambiance, but the food was overpriced for what it was."
+    },
+    {
+        "feedback": "Loved the fresh ingredients, but some dishes were too bland."
+    },
+    {
+        "feedback": "The decor was charming, but the service was slow."
+    },
+    {
+        "feedback": "The seafood was delicious, but the portions were small."
+    },
+    {
+        "feedback": "The desserts were rich, but the main courses were underwhelming."
+    },
+    {
+        "feedback": "The ambiance was cozy, but the food was just okay."
+    },
+    {
+        "feedback": "The burger was perfectly cooked, but the toppings were sparse."
+    },
+    {
+        "feedback": "Great variety of dishes, but some lacked flavor."
+    },
+    {
+        "feedback": "Loved the happy hour specials, but the food was average."
+    },
+    {
+        "feedback": "The menu had interesting options, but the execution was lacking."
+    },
+    {
+        "feedback": "The staff were friendly, but the service was slow."
+    },
+    {
+        "feedback": "The cocktails were delicious, but the food was mediocre."
+    },
+    {
+        "feedback": "Great brunch options, but the coffee could be stronger."
+    },
+    {
+        "feedback": "Loved the outdoor seating, but the service was inconsistent."
+    },
+    {
+        "feedback": "The pasta was flavorful, but the portions were small."
+    },
+    {
+        "feedback": "Impressive wine list, but the food was just okay."
+    },
+    {
+        "feedback": "The flavors were unique, but some dishes were overpriced."
+    },
+    {
+        "feedback": "Great atmosphere for a casual dinner, but not for special occasions."
+    },
+    {
+        "feedback": "The desserts were fantastic, but the entrees were average."
+    },
+    {
+        "feedback": "Delicious tacos, but the salsa was too spicy."
+    },
+    {
+        "feedback": "A good spot for families, but the kids' menu was limited."
+    },
+    {
+        "feedback": "The steak was juicy, but the side dishes were bland."
+    },
+    {
+        "feedback": "Loved the ambiance, but the food could use improvement."
+    },
+    {
+        "feedback": "Great for brunch, but the dinner menu was uninspiring."
+    },
+    {
+        "feedback": "The service was attentive, but the food was lukewarm."
+    },
+    {
+        "feedback": "The cocktails were creative, but the food was disappointing."
+    },
+    {
+        "feedback": "A charming spot for dinner, but the prices were high."
+    },
+    {
+        "feedback": "Great variety of dishes, but the quality was inconsistent."
+    },
+    {
+        "feedback": "Loved the seafood, but the meat options were lacking."
+    },
+    {
+        "feedback": "The atmosphere was relaxed, but the service was slow."
+    },
+    {
+        "feedback": "The appetizers were a highlight, but the main courses fell flat."
+    },
+    {
+        "feedback": "The flavors were bold, but the portion sizes were small."
+    },
+    {
+        "feedback": "Great outdoor seating, but the staff were overwhelmed."
+    },
+    {
+        "feedback": "The ambiance was inviting, but the food was mediocre."
+    },
+    {
+        "feedback": "Wonderful location, but the food didn't impress."
+    },
+    {
+        "feedback": "The dessert selection was amazing, but the entrees were forgettable."
+    },
+    {
+        "feedback": "Delicious brunch, but the dinner menu was limited."
+    },
+    {
+        "feedback": "The staff were friendly, but the food was a bit bland."
+    },
+    {
+        "feedback": "The flavors were unique, but the execution was inconsistent."
+    },
+    {
+        "feedback": "A nice spot for a casual meal, but the food could be better."
+    },
+    {
+        "feedback": "Great cocktails, but the food was lukewarm."
+    },
+    {
+        "feedback": "The atmosphere was charming, but the food was overpriced."
+    },
+    {
+        "feedback": "Loved the concept, but the execution fell short."
+    },
+    {
+        "feedback": "The salad was fresh, but the dressing was too heavy."
+    },
+    {
+        "feedback": "The service was fast, but the food was underwhelming."
+    },
+    {
+        "feedback": "The pasta was al dente, but the sauce was too bland."
+    },
+    {
+        "feedback": "Great place for a quick bite, but not for a long dinner."
+    },
+    {
+        "feedback": "The wings were flavorful, but the dipping sauce was too spicy."
+    },
+    {
+        "feedback": "Good atmosphere, but the food was average."
+    },
+    {
+        "feedback": "Great variety on the menu, but the prices were high."
+    },
+    {
+        "feedback": "The staff were attentive, but my food took a while to arrive."
+    },
+    {
+        "feedback": "The steak was tender, but the vegetables were overcooked."
+    },
+    {
+        "feedback": "Loved the ambiance, but the food was just okay."
+    },
+    {
+        "feedback": "Great drinks, but the food quality was inconsistent."
+    },
+    {
+        "feedback": "The desserts were delicious, but the main courses were bland."
+    },
+    {
+        "feedback": "Impressive decor, but the service was slow."
+    },
+    {
+        "feedback": "Great outdoor seating, but the food was lukewarm."
+    },
+    {
+        "feedback": "The menu had interesting options, but the execution was lacking."
+    },
+    {
+        "feedback": "Loved the happy hour specials, but the food was average."
+    },
+    {
+        "feedback": "Great for brunch, but dinner was lackluster."
+    },
+    {
+        "feedback": "The staff were friendly, but the food was overpriced."
+    },
+    {
+        "feedback": "The flavors were unique, but the portion sizes were small."
+    },
+    {
+        "feedback": "The atmosphere was cozy, but the food quality was hit or miss."
+    },
+    {
+        "feedback": "Delicious tacos, but the salsa was too spicy."
+    },
+    {
+        "feedback": "The burgers were juicy, but the fries were soggy."
+    },
+    {
+        "feedback": "Great for families, but the menu options were limited."
+    },
+    {
+        "feedback": "The seafood was fresh, but the sides were lacking."
+    },
+    {
+        "feedback": "A lovely place for brunch, but the dinner menu was uninspired."
+    },
+    {
+        "feedback": "The pasta was well-seasoned, but the portions were small."
+    },
+    {
+        "feedback": "The staff were knowledgeable, but the wait was long."
+    },
+    {
+        "feedback": "Loved the ambiance, but the food was disappointing."
+    },
+    {
+        "feedback": "Great drinks, but the food was lukewarm."
+    },
+    {
+        "feedback": "The ambiance was lovely, but the food was mediocre."
+    },
+    {
+        "feedback": "The desserts were a highlight, but the entrees were forgettable."
+    },
+    {
+        "feedback": "The menu had great variety, but the food quality was inconsistent."
+    },
+    {
+        "feedback": "Loved the outdoor seating, but the service was slow."
+    },
+    {
+        "feedback": "Great atmosphere for a casual meal, but the food could be better."
+    },
+    {
+        "feedback": "The brunch was delightful, but the service was a bit slow."
+    },
+    {
+        "feedback": "The cocktails were creative, but the food lacked flavor."
+    },
+    {
+        "feedback": "Great ambiance for a casual dinner, but the food was just okay."
+    },
+    {
+        "feedback": "The pasta was cooked well, but the sauce was too rich."
+    },
+    {
+        "feedback": "The staff were friendly, but the food took a long time."
+    },
+    {
+        "feedback": "The desserts were impressive, but the main courses fell short."
+    },
+    {
+        "feedback": "Loved the variety, but the execution was hit or miss."
+    },
+    {
+        "feedback": "Great location, but the noise level was high."
+    },
+    {
+        "feedback": "The seafood was fresh, but the steak was overcooked."
+    },
+    {
+        "feedback": "The salads were tasty, but the dressings were too oily."
+    },
+    {
+        "feedback": "Nice outdoor seating, but the food was overpriced."
+    },
+    {
+        "feedback": "The flavors were bold, but some dishes were too salty."
+    },
+    {
+        "feedback": "The atmosphere was inviting, but the service was slow."
+    },
+    {
+        "feedback": "The burger was juicy, but the bun fell apart."
+    },
+    {
+        "feedback": "Great for a quick lunch, but dinner was underwhelming."
+    },
+    {
+        "feedback": "The appetizers were a highlight, but the mains were lacking."
+    },
+    {
+        "feedback": "Delicious soup, but the sandwich was bland."
+    },
+    {
+        "feedback": "The staff were accommodating, but my order was wrong."
+    },
+    {
+        "feedback": "Wonderful ambiance, but the food was just average."
+    },
+    {
+        "feedback": "The tacos were authentic, but the portions were small."
+    },
+    {
+        "feedback": "Impressive decor, but the food didn't match the expectations."
+    },
+    {
+        "feedback": "The drinks were refreshing, but the food was lukewarm."
+    },
+    {
+        "feedback": "Great for families, but the kids' menu options were limited."
+    },
+    {
+        "feedback": "The sushi was fresh, but the rice was overcooked."
+    },
+    {
+        "feedback": "Loved the desserts, but the mains were disappointing."
+    },
+    {
+        "feedback": "The flavors were vibrant, but the meal felt rushed."
+    },
+    {
+        "feedback": "Great variety of dishes, but some were poorly executed."
+    },
+    {
+        "feedback": "The staff were attentive, but the food quality varied."
+    },
+    {
+        "feedback": "The seafood was delicious, but the sides were uninspired."
+    },
+    {
+        "feedback": "Great location, but the food was overpriced."
+    },
+    {
+        "feedback": "The pasta was al dente, but the sauce was too bland."
+    },
+    {
+        "feedback": "Great for casual dining, but not for special occasions."
+    },
+    {
+        "feedback": "The cheese platter was delightful, but the bread was stale."
+    },
+    {
+        "feedback": "The ambiance was charming, but the service was slow."
+    },
+    {
+        "feedback": "The burgers were great, but the fries were cold."
+    },
+    {
+        "feedback": "Nice atmosphere for a night out, but the food was average."
+    },
+    {
+        "feedback": "The service was quick, but the food was underwhelming."
+    },
+    {
+        "feedback": "Great place for brunch, but the dinner menu lacked variety."
+    },
+    {
+        "feedback": "The flavors were unique, but some dishes were too heavy."
+    },
+    {
+        "feedback": "The salads were fresh, but the dressings were lacking."
+    },
+    {
+        "feedback": "The cocktails were excellent, but the food was mediocre."
+    },
+    {
+        "feedback": "Loved the vegan options, but the meat dishes were disappointing."
+    },
+    {
+        "feedback": "The atmosphere was lively, but the service was slow."
+    },
+    {
+        "feedback": "Great for lunch, but dinner was a letdown."
+    },
+    {
+        "feedback": "The meat was tender, but the seasoning was too light."
+    },
+    {
+        "feedback": "Great for a casual meal, but not for fine dining."
+    },
+    {
+        "feedback": "The decor was stunning, but the food was just average."
+    },
+    {
+        "feedback": "Great outdoor seating, but the menu was limited."
+    },
+    {
+        "feedback": "The desserts were a highlight, but the appetizers were bland."
+    },
+    {
+        "feedback": "Good place for groups, but the service was inconsistent."
+    },
+    {
+        "feedback": "The menu had interesting options, but the execution fell short."
+    },
+    {
+        "feedback": "Loved the brunch menu, but the coffee was weak."
+    },
+    {
+        "feedback": "The flavors were vibrant, but the portions were small."
+    },
+    {
+        "feedback": "The service was friendly, but my order took too long."
+    },
+    {
+        "feedback": "The seafood was fresh, but the sides were bland."
+    },
+    {
+        "feedback": "Great atmosphere for a casual dinner, but the food was mediocre."
+    },
+    {
+        "feedback": "The sushi was tasty, but the rolls were a bit big."
+    },
+    {
+        "feedback": "The cocktails were delicious, but the food was a letdown."
+    },
+    {
+        "feedback": "The flavors were bold, but some dishes were too rich."
+    },
+    {
+        "feedback": "Great location, but the service was a bit slow."
+    },
+    {
+        "feedback": "The burger was perfectly cooked, but the fries were soggy."
+    },
+    {
+        "feedback": "Loved the variety on the menu, but some dishes missed the mark."
+    },
+    {
+        "feedback": "The staff were attentive, but the food was lukewarm."
+    },
+    {
+        "feedback": "The desserts were fantastic, but the main dishes were forgettable."
+    },
+    {
+        "feedback": "Great for a quick meal, but not a romantic dinner spot."
+    },
+    {
+        "feedback": "The presentation was beautiful, but the flavors were flat."
+    },
+    {
+        "feedback": "Good selection of wines, but the food was overpriced."
+    },
+    {
+        "feedback": "The ambiance was cozy, but the food was just okay."
+    },
+    {
+        "feedback": "Great for a casual lunch, but dinner was uninspiring."
+    },
+    {
+        "feedback": "The pasta was flavorful, but the portions were small."
+    },
+    {
+        "feedback": "The service was friendly, but the food quality was hit or miss."
+    },
+    {
+        "feedback": "Loved the outdoor seating, but the wait was long."
+    },
+    {
+        "feedback": "Great brunch options, but the dinner menu was limited."
+    },
+    {
+        "feedback": "The flavors were interesting, but the execution was lacking."
+    },
+    {
+        "feedback": "Great for families, but the kids' menu was too limited."
+    },
+    {
+        "feedback": "The seafood was well-prepared, but the meat options were disappointing."
+    },
+    {
+        "feedback": "Great cocktails, but the food was lukewarm."
+    },
+    {
+        "feedback": "The tacos were flavorful, but the sides were lacking."
+    },
+    {
+        "feedback": "Wonderful atmosphere, but the food didn't impress."
+    },
+    {
+        "feedback": "The burger was juicy, but the bun was stale."
+    },
+    {
+        "feedback": "The service was quick, but the food was average."
+    },
+    {
+        "feedback": "The flavors were unique, but the meal was overpriced."
+    },
+    {
+        "feedback": "Great ambiance, but the food quality was inconsistent."
+    },
+    {
+        "feedback": "The desserts were impressive, but the entrees were forgettable."
+    },
+    {
+        "feedback": "Loved the concept, but the execution needs work."
+    },
+    {
+        "feedback": "The atmosphere was relaxed, but the food was just okay."
+    },
+    {
+        "feedback": "Great selection of appetizers, but the mains were disappointing."
+    },
+    {
+        "feedback": "The staff were friendly, but my order took too long."
+    },
+    {
+        "feedback": "The seafood was fresh, but the steak was overcooked."
+    },
+    {
+        "feedback": "Delicious cocktails, but the food could use improvement."
+    },
+    {
+        "feedback": "Great for a casual meal, but not for fine dining."
+    },
+    {
+        "feedback": "The decor was charming, but the service was slow."
+    },
+    {
+        "feedback": "The pasta was well-cooked, but the sauce was too bland."
+    },
+    {
+        "feedback": "The atmosphere was inviting, but the food was mediocre."
+    },
+    {
+        "feedback": "Loved the seasonal menu, but it was rushed."
+    },
+    {
+        "feedback": "Great location, but the food quality was hit or miss."
+    },
+    {
+        "feedback": "The wings were flavorful, but the sauce was too spicy."
+    },
+    {
+        "feedback": "The salads were fresh, but the dressings were lacking."
+    },
+    {
+        "feedback": "Good atmosphere, but the food was overpriced."
+    },
+    {
+        "feedback": "The cocktails were refreshing, but the food was lukewarm."
+    },
+    {
+        "feedback": "Great for lunch, but dinner was underwhelming."
+    },
+    {
+        "feedback": "The presentation was beautiful, but the flavors were flat."
+    },
+    {
+        "feedback": "Loved the outdoor seating, but the service was inconsistent."
+    },
+    {
+        "feedback": "Great selection of wines, but the food was average."
+    },
+    {
+        "feedback": "The burger was juicy, but the fries were soggy."
+    },
+    {
+        "feedback": "The desserts were rich, but the entrees were lackluster."
+    },
+    {
+        "feedback": "A nice spot for casual dining, but the food was just okay."
+    },
+    {
+        "feedback": "The flavors were bold, but the execution was uneven."
+    },
+    {
+        "feedback": "Great for brunch, but the dinner options were limited."
+    },
+    {
+        "feedback": "The atmosphere was lively, but the service was slow."
+    },
+    {
+        "feedback": "Loved the variety, but the food was mediocre."
+    },
+    {
+        "feedback": "The seafood was delicious, but the steak was overcooked."
+    },
+    {
+        "feedback": "Great cocktails, but the food quality was inconsistent."
+    },
+    {
+        "feedback": "Wonderful ambiance, but the food was average."
+    }
+]
